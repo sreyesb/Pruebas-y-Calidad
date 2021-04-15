@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcosrivasr/github-actions-tutorial.git"
+    "url": "git+https://github.com/sreyesb/Pruebas-y-Calidad.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marcosrivasr/github-actions-tutorial/issues"
+    "url": "https://github.com/sreyesb/Pruebas-y-Calidad/issues"
   },
-  "homepage": "https://github.com/marcosrivasr/github-actions-tutorial#readme",
+  "homepage": "https://github.com/sreyesb/Pruebas-y-Calidad#readme",
   "devDependencies": {
     "jest": "^25.1.0"
   }
